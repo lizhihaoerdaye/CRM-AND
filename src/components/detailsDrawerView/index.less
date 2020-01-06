@@ -1,0 +1,51 @@
+@import '~antd-mobile/dist/antd-mobile.less';
+.seekerHead {
+  padding: 16px;
+  background: #ffffff;
+  overflow: hidden;
+  // margin-bottom: 10px;
+  .seekerHeadInfo {
+    display: inline-block;
+    font-size: 19px;
+    font-weight: bolder;
+    color: #333;
+    line-height: 32px;
+  }
+  .seekerHeadBut {
+    float: right;
+    margin-right: 15px;
+  }
+}
+.seekerContent {
+  overflow: hidden;
+  padding: 10px;
+  .contentLeft {
+    background: #ffffff;
+    padding: 16px;
+  }
+  .contentRigth {
+    background: #ffffff;
+    padding: 16px;
+  }
+}
+:global {
+  .ant-drawer-wrapper-body {
+    .ant-drawer-body {
+      padding: 0px !important;
+    }
+  }
+  .ant-descriptions {
+    .ant-descriptions-title {
+      border-left: 5px solid #d9363e;
+      padding: 0px 10px;
+    }
+  }
+  .antd-pro-components-details-drawer-view-index-seekerContent {
+    .ant-descriptions-item > span {
+      display: inline !important;
+    }
+    .ant-descriptions-item-content {
+      display: inline;
+    }
+  }
+}

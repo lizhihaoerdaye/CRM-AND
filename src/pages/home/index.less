@@ -1,0 +1,49 @@
+@import '~antd-mobile/dist/antd-mobile.less';
+.seek{
+  background: #fff;
+  padding: 10px 16px;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+.seekList{
+  margin-bottom: 10px;
+  .seekHead{
+    font-weight: bolder;
+    font-size: 17px;
+    display:inline-block;
+    width: 100px;
+  }
+  .seekTag{
+    display:inline-block;
+    :global {
+      .ant-tag{
+        line-height: 32px;
+        padding: 0 12px;
+        margin-right: 12px;
+        font-size: 15px;
+      }
+      .ant-tag-checkable:not(.ant-tag-checkable-checked):hover{
+        color: #e35a48;
+      }
+      .ant-tag-checkable-checked{
+        background-color: #e35a48;
+      }
+    }
+  }
+}
+
+.tableLine{
+  span{
+    margin-right: 10px;
+    font-Weight: 400;
+    color: #000;
+  }
+}
+:global{
+  .ant-pagination.ant-table-pagination{
+    .ant-pagination-total-text{
+      position: absolute;
+      left: 0;
+    }
+  }
+}

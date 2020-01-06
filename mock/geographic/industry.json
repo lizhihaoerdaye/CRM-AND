@@ -1,0 +1,2277 @@
+[
+    {
+    "id": "1",
+    "indCode": "100000",
+    "parentCode": "0",
+    "indName": "医疗健康",
+    "indLevel": "1"
+    },
+    {
+    "id": "2",
+    "indCode": "100100",
+    "parentCode": "100000",
+    "indName": "妇科",
+    "indLevel": "2"
+    },
+    {
+    "id": "3",
+    "indCode": "100200",
+    "parentCode": "100000",
+    "indName": "美容整形",
+    "indLevel": "2"
+    },
+    {
+    "id": "4",
+    "indCode": "100300",
+    "parentCode": "100000",
+    "indName": "男科",
+    "indLevel": "2"
+    },
+    {
+    "id": "5",
+    "indCode": "100400",
+    "parentCode": "100000",
+    "indName": "专科-五官科",
+    "indLevel": "2"
+    },
+    {
+    "id": "6",
+    "indCode": "100500",
+    "parentCode": "100000",
+    "indName": "专科-内科",
+    "indLevel": "2"
+    },
+    {
+    "id": "7",
+    "indCode": "100600",
+    "parentCode": "100000",
+    "indName": "专科-皮肤科",
+    "indLevel": "2"
+    },
+    {
+    "id": "8",
+    "indCode": "100700",
+    "parentCode": "100000",
+    "indName": "专科-外科",
+    "indLevel": "2"
+    },
+    {
+    "id": "9",
+    "indCode": "100800",
+    "parentCode": "100000",
+    "indName": "专科-心理咨询",
+    "indLevel": "2"
+    },
+    {
+    "id": "10",
+    "indCode": "100900",
+    "parentCode": "100000",
+    "indName": "医疗器械",
+    "indLevel": "2"
+    },
+    {
+    "id": "11",
+    "indCode": "101000",
+    "parentCode": "100000",
+    "indName": "中医",
+    "indLevel": "2"
+    },
+    {
+    "id": "12",
+    "indCode": "101100",
+    "parentCode": "100000",
+    "indName": "专科-传染科",
+    "indLevel": "2"
+    },
+    {
+    "id": "13",
+    "indCode": "101200",
+    "parentCode": "100000",
+    "indName": "专科-儿科",
+    "indLevel": "2"
+    },
+    {
+    "id": "14",
+    "indCode": "101300",
+    "parentCode": "100000",
+    "indName": "保健品",
+    "indLevel": "2"
+    },
+    {
+    "id": "15",
+    "indCode": "101400",
+    "parentCode": "100000",
+    "indName": "药品",
+    "indLevel": "2"
+    },
+    {
+    "id": "16",
+    "indCode": "101500",
+    "parentCode": "100000",
+    "indName": "医用材料",
+    "indLevel": "2"
+    },
+    {
+    "id": "17",
+    "indCode": "101600",
+    "parentCode": "100000",
+    "indName": "戒毒机构",
+    "indLevel": "2"
+    },
+    {
+    "id": "18",
+    "indCode": "101700",
+    "parentCode": "100000",
+    "indName": "非手术美容类",
+    "indLevel": "2"
+    },
+    {
+    "id": "19",
+    "indCode": "101800",
+    "parentCode": "100000",
+    "indName": "专科-其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "20",
+    "indCode": "101900",
+    "parentCode": "100000",
+    "indName": "体检机构",
+    "indLevel": "2"
+    },
+    {
+    "id": "21",
+    "indCode": "102000",
+    "parentCode": "100000",
+    "indName": "综合医院",
+    "indLevel": "2"
+    },
+    {
+    "id": "22",
+    "indCode": "102100",
+    "parentCode": "100000",
+    "indName": "资讯",
+    "indLevel": "2"
+    },
+    {
+    "id": "23",
+    "indCode": "109900",
+    "parentCode": "100000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "24",
+    "indCode": "110000",
+    "parentCode": "0",
+    "indName": "机械设备",
+    "indLevel": "1"
+    },
+    {
+    "id": "25",
+    "indCode": "110100",
+    "parentCode": "110000",
+    "indName": "通用机械设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "26",
+    "indCode": "110200",
+    "parentCode": "110000",
+    "indName": "金属材料",
+    "indLevel": "2"
+    },
+    {
+    "id": "27",
+    "indCode": "110300",
+    "parentCode": "110000",
+    "indName": "化工机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "28",
+    "indCode": "110400",
+    "parentCode": "110000",
+    "indName": "工程机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "29",
+    "indCode": "110500",
+    "parentCode": "110000",
+    "indName": "五金机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "30",
+    "indCode": "110600",
+    "parentCode": "110000",
+    "indName": "通用零配件",
+    "indLevel": "2"
+    },
+    {
+    "id": "31",
+    "indCode": "110700",
+    "parentCode": "110000",
+    "indName": "机床设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "32",
+    "indCode": "110800",
+    "parentCode": "110000",
+    "indName": "通风设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "33",
+    "indCode": "110900",
+    "parentCode": "110000",
+    "indName": "模具",
+    "indLevel": "2"
+    },
+    {
+    "id": "34",
+    "indCode": "111000",
+    "parentCode": "110000",
+    "indName": "勘探机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "35",
+    "indCode": "111100",
+    "parentCode": "110000",
+    "indName": "食品机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "36",
+    "indCode": "111200",
+    "parentCode": "110000",
+    "indName": "橡塑设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "37",
+    "indCode": "111300",
+    "parentCode": "110000",
+    "indName": "清洁设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "38",
+    "indCode": "111400",
+    "parentCode": "110000",
+    "indName": "包装机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "39",
+    "indCode": "111500",
+    "parentCode": "110000",
+    "indName": "物流设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "40",
+    "indCode": "111600",
+    "parentCode": "110000",
+    "indName": "农林机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "41",
+    "indCode": "111700",
+    "parentCode": "110000",
+    "indName": "商业设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "42",
+    "indCode": "111800",
+    "parentCode": "110000",
+    "indName": "纺织机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "43",
+    "indCode": "111900",
+    "parentCode": "110000",
+    "indName": "冶金机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "44",
+    "indCode": "112000",
+    "parentCode": "110000",
+    "indName": "磨具",
+    "indLevel": "2"
+    },
+    {
+    "id": "45",
+    "indCode": "112100",
+    "parentCode": "110000",
+    "indName": "木工机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "46",
+    "indCode": "112200",
+    "parentCode": "110000",
+    "indName": "造纸设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "47",
+    "indCode": "112300",
+    "parentCode": "110000",
+    "indName": "医疗机械",
+    "indLevel": "2"
+    },
+    {
+    "id": "48",
+    "indCode": "119900",
+    "parentCode": "110000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "49",
+    "indCode": "120000",
+    "parentCode": "0",
+    "indName": "游戏",
+    "indLevel": "1"
+    },
+    {
+    "id": "50",
+    "indCode": "120100",
+    "parentCode": "120000",
+    "indName": "游戏-客户端",
+    "indLevel": "2"
+    },
+    {
+    "id": "51",
+    "indCode": "120200",
+    "parentCode": "120000",
+    "indName": "游戏-网页",
+    "indLevel": "2"
+    },
+    {
+    "id": "52",
+    "indCode": "120300",
+    "parentCode": "120000",
+    "indName": "游戏-手游",
+    "indLevel": "2"
+    },
+    {
+    "id": "53",
+    "indCode": "120400",
+    "parentCode": "120000",
+    "indName": "网络小游戏",
+    "indLevel": "2"
+    },
+    {
+    "id": "54",
+    "indCode": "129900",
+    "parentCode": "120000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "55",
+    "indCode": "130000",
+    "parentCode": "0",
+    "indName": "教育培训",
+    "indLevel": "1"
+    },
+    {
+    "id": "56",
+    "indCode": "130100",
+    "parentCode": "130000",
+    "indName": "职业教育",
+    "indLevel": "2"
+    },
+    {
+    "id": "57",
+    "indCode": "130200",
+    "parentCode": "130000",
+    "indName": "高教自考",
+    "indLevel": "2"
+    },
+    {
+    "id": "58",
+    "indCode": "130300",
+    "parentCode": "130000",
+    "indName": "IT培训",
+    "indLevel": "2"
+    },
+    {
+    "id": "59",
+    "indCode": "130400",
+    "parentCode": "130000",
+    "indName": "语言培训",
+    "indLevel": "2"
+    },
+    {
+    "id": "60",
+    "indCode": "130500",
+    "parentCode": "130000",
+    "indName": "家教和拓展",
+    "indLevel": "2"
+    },
+    {
+    "id": "61",
+    "indCode": "130600",
+    "parentCode": "130000",
+    "indName": "休闲培训",
+    "indLevel": "2"
+    },
+    {
+    "id": "62",
+    "indCode": "130700",
+    "parentCode": "130000",
+    "indName": "留学出国",
+    "indLevel": "2"
+    },
+    {
+    "id": "63",
+    "indCode": "130800",
+    "parentCode": "130000",
+    "indName": "基础教育",
+    "indLevel": "2"
+    },
+    {
+    "id": "64",
+    "indCode": "130900",
+    "parentCode": "130000",
+    "indName": "综合教育",
+    "indLevel": "2"
+    },
+    {
+    "id": "65",
+    "indCode": "131000",
+    "parentCode": "130000",
+    "indName": "学历教育",
+    "indLevel": "2"
+    },
+    {
+    "id": "66",
+    "indCode": "139900",
+    "parentCode": "130000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "67",
+    "indCode": "140000",
+    "parentCode": "0",
+    "indName": "招商加盟",
+    "indLevel": "1"
+    },
+    {
+    "id": "68",
+    "indCode": "140100",
+    "parentCode": "140000",
+    "indName": "餐饮服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "69",
+    "indCode": "140200",
+    "parentCode": "140000",
+    "indName": "家居建材",
+    "indLevel": "2"
+    },
+    {
+    "id": "70",
+    "indCode": "140300",
+    "parentCode": "140000",
+    "indName": "服装鞋帽",
+    "indLevel": "2"
+    },
+    {
+    "id": "71",
+    "indCode": "140400",
+    "parentCode": "140000",
+    "indName": "保健品",
+    "indLevel": "2"
+    },
+    {
+    "id": "72",
+    "indCode": "140500",
+    "parentCode": "140000",
+    "indName": "饰品礼品",
+    "indLevel": "2"
+    },
+    {
+    "id": "73",
+    "indCode": "140600",
+    "parentCode": "140000",
+    "indName": "生活用品",
+    "indLevel": "2"
+    },
+    {
+    "id": "74",
+    "indCode": "140700",
+    "parentCode": "140000",
+    "indName": "机械电子",
+    "indLevel": "2"
+    },
+    {
+    "id": "75",
+    "indCode": "140800",
+    "parentCode": "140000",
+    "indName": "干洗加盟",
+    "indLevel": "2"
+    },
+    {
+    "id": "76",
+    "indCode": "140900",
+    "parentCode": "140000",
+    "indName": "教育培训",
+    "indLevel": "2"
+    },
+    {
+    "id": "77",
+    "indCode": "141000",
+    "parentCode": "140000",
+    "indName": "娱乐休闲",
+    "indLevel": "2"
+    },
+    {
+    "id": "78",
+    "indCode": "141100",
+    "parentCode": "140000",
+    "indName": "美容化妆",
+    "indLevel": "2"
+    },
+    {
+    "id": "79",
+    "indCode": "141200",
+    "parentCode": "140000",
+    "indName": "综合",
+    "indLevel": "2"
+    },
+    {
+    "id": "80",
+    "indCode": "149900",
+    "parentCode": "140000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "81",
+    "indCode": "150000",
+    "parentCode": "0",
+    "indName": "商务服务",
+    "indLevel": "1"
+    },
+    {
+    "id": "82",
+    "indCode": "150100",
+    "parentCode": "150000",
+    "indName": "代理出国",
+    "indLevel": "2"
+    },
+    {
+    "id": "83",
+    "indCode": "150200",
+    "parentCode": "150000",
+    "indName": "咨询策划",
+    "indLevel": "2"
+    },
+    {
+    "id": "84",
+    "indCode": "150300",
+    "parentCode": "150000",
+    "indName": "代理",
+    "indLevel": "2"
+    },
+    {
+    "id": "85",
+    "indCode": "150400",
+    "parentCode": "150000",
+    "indName": "调查",
+    "indLevel": "2"
+    },
+    {
+    "id": "86",
+    "indCode": "150500",
+    "parentCode": "150000",
+    "indName": "设计",
+    "indLevel": "2"
+    },
+    {
+    "id": "87",
+    "indCode": "150600",
+    "parentCode": "150000",
+    "indName": "会计审计",
+    "indLevel": "2"
+    },
+    {
+    "id": "88",
+    "indCode": "150700",
+    "parentCode": "150000",
+    "indName": "公关",
+    "indLevel": "2"
+    },
+    {
+    "id": "89",
+    "indCode": "150800",
+    "parentCode": "150000",
+    "indName": "信息服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "90",
+    "indCode": "150900",
+    "parentCode": "150000",
+    "indName": "法律服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "91",
+    "indCode": "151000",
+    "parentCode": "150000",
+    "indName": "翻译",
+    "indLevel": "2"
+    },
+    {
+    "id": "92",
+    "indCode": "151100",
+    "parentCode": "150000",
+    "indName": "拍卖",
+    "indLevel": "2"
+    },
+    {
+    "id": "93",
+    "indCode": "151200",
+    "parentCode": "150000",
+    "indName": "配音",
+    "indLevel": "2"
+    },
+    {
+    "id": "94",
+    "indCode": "151300",
+    "parentCode": "150000",
+    "indName": "司法鉴定",
+    "indLevel": "2"
+    },
+    {
+    "id": "95",
+    "indCode": "151400",
+    "parentCode": "150000",
+    "indName": "广告",
+    "indLevel": "2"
+    },
+    {
+    "id": "96",
+    "indCode": "151500",
+    "parentCode": "150000",
+    "indName": "注册公司",
+    "indLevel": "2"
+    },
+    {
+    "id": "97",
+    "indCode": "151600",
+    "parentCode": "150000",
+    "indName": "认证",
+    "indLevel": "2"
+    },
+    {
+    "id": "98",
+    "indCode": "159900",
+    "parentCode": "150000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "99",
+    "indCode": "160000",
+    "parentCode": "0",
+    "indName": "装修装饰",
+    "indLevel": "1"
+    },
+    {
+    "id": "100",
+    "indCode": "160100",
+    "parentCode": "160000",
+    "indName": "建筑装修装饰",
+    "indLevel": "2"
+    },
+    {
+    "id": "101",
+    "indCode": "160200",
+    "parentCode": "160000",
+    "indName": "建筑工程",
+    "indLevel": "2"
+    },
+    {
+    "id": "102",
+    "indCode": "160300",
+    "parentCode": "160000",
+    "indName": "装修服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "103",
+    "indCode": "160400",
+    "parentCode": "160000",
+    "indName": "家装材料",
+    "indLevel": "2"
+    },
+    {
+    "id": "104",
+    "indCode": "160500",
+    "parentCode": "160000",
+    "indName": "家装设计",
+    "indLevel": "2"
+    },
+    {
+    "id": "105",
+    "indCode": "160600",
+    "parentCode": "160000",
+    "indName": "家具及卖场",
+    "indLevel": "2"
+    },
+    {
+    "id": "106",
+    "indCode": "169900",
+    "parentCode": "160000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "107",
+    "indCode": "170000",
+    "parentCode": "0",
+    "indName": "生活用品",
+    "indLevel": "1"
+    },
+    {
+    "id": "108",
+    "indCode": "170100",
+    "parentCode": "170000",
+    "indName": "家具",
+    "indLevel": "2"
+    },
+    {
+    "id": "109",
+    "indCode": "170200",
+    "parentCode": "170000",
+    "indName": "日常用品",
+    "indLevel": "2"
+    },
+    {
+    "id": "110",
+    "indCode": "170300",
+    "parentCode": "170000",
+    "indName": "眼镜钟表",
+    "indLevel": "2"
+    },
+    {
+    "id": "111",
+    "indCode": "170400",
+    "parentCode": "170000",
+    "indName": "出具餐具",
+    "indLevel": "2"
+    },
+    {
+    "id": "112",
+    "indCode": "170500",
+    "parentCode": "170000",
+    "indName": "箱包皮具",
+    "indLevel": "2"
+    },
+    {
+    "id": "113",
+    "indCode": "170600",
+    "parentCode": "170000",
+    "indName": "礼品",
+    "indLevel": "2"
+    },
+    {
+    "id": "114",
+    "indCode": "170700",
+    "parentCode": "170000",
+    "indName": "工艺品",
+    "indLevel": "2"
+    },
+    {
+    "id": "115",
+    "indCode": "170800",
+    "parentCode": "170000",
+    "indName": "饰品",
+    "indLevel": "2"
+    },
+    {
+    "id": "116",
+    "indCode": "170900",
+    "parentCode": "170000",
+    "indName": "奢侈品",
+    "indLevel": "2"
+    },
+    {
+    "id": "117",
+    "indCode": "171000",
+    "parentCode": "170000",
+    "indName": "桶装矿泉水",
+    "indLevel": "2"
+    },
+    {
+    "id": "118",
+    "indCode": "179900",
+    "parentCode": "170000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "119",
+    "indCode": "180000",
+    "parentCode": "0",
+    "indName": "生活服务",
+    "indLevel": "1"
+    },
+    {
+    "id": "120",
+    "indCode": "180100",
+    "parentCode": "180000",
+    "indName": "婚庆摄影",
+    "indLevel": "2"
+    },
+    {
+    "id": "121",
+    "indCode": "180200",
+    "parentCode": "180000",
+    "indName": "搬家",
+    "indLevel": "2"
+    },
+    {
+    "id": "122",
+    "indCode": "180300",
+    "parentCode": "180000",
+    "indName": "保洁",
+    "indLevel": "2"
+    },
+    {
+    "id": "123",
+    "indCode": "180400",
+    "parentCode": "180000",
+    "indName": "保姆家政",
+    "indLevel": "2"
+    },
+    {
+    "id": "124",
+    "indCode": "180500",
+    "parentCode": "180000",
+    "indName": "虫害控制",
+    "indLevel": "2"
+    },
+    {
+    "id": "125",
+    "indCode": "180600",
+    "parentCode": "180000",
+    "indName": "办证刻章",
+    "indLevel": "2"
+    },
+    {
+    "id": "126",
+    "indCode": "180700",
+    "parentCode": "180000",
+    "indName": "开锁",
+    "indLevel": "2"
+    },
+    {
+    "id": "127",
+    "indCode": "180800",
+    "parentCode": "180000",
+    "indName": "维修",
+    "indLevel": "2"
+    },
+    {
+    "id": "128",
+    "indCode": "180900",
+    "parentCode": "180000",
+    "indName": "公证处",
+    "indLevel": "2"
+    },
+    {
+    "id": "129",
+    "indCode": "181000",
+    "parentCode": "180000",
+    "indName": "按摩",
+    "indLevel": "2"
+    },
+    {
+    "id": "130",
+    "indCode": "181100",
+    "parentCode": "180000",
+    "indName": "综合",
+    "indLevel": "2"
+    },
+    {
+    "id": "131",
+    "indCode": "181200",
+    "parentCode": "180000",
+    "indName": "殡葬服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "132",
+    "indCode": "189900",
+    "parentCode": "180000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "133",
+    "indCode": "190000",
+    "parentCode": "0",
+    "indName": "交通类",
+    "indLevel": "1"
+    },
+    {
+    "id": "134",
+    "indCode": "190100",
+    "parentCode": "190000",
+    "indName": "物流",
+    "indLevel": "2"
+    },
+    {
+    "id": "135",
+    "indCode": "190200",
+    "parentCode": "190000",
+    "indName": "汽车厂商",
+    "indLevel": "2"
+    },
+    {
+    "id": "136",
+    "indCode": "190300",
+    "parentCode": "190000",
+    "indName": "汽车经销商",
+    "indLevel": "2"
+    },
+    {
+    "id": "137",
+    "indCode": "190400",
+    "parentCode": "190000",
+    "indName": "汽配及服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "138",
+    "indCode": "190500",
+    "parentCode": "190000",
+    "indName": "旧机动车交易",
+    "indLevel": "2"
+    },
+    {
+    "id": "139",
+    "indCode": "190600",
+    "parentCode": "190000",
+    "indName": "摩托车交易",
+    "indLevel": "2"
+    },
+    {
+    "id": "140",
+    "indCode": "190700",
+    "parentCode": "190000",
+    "indName": "驾校",
+    "indLevel": "2"
+    },
+    {
+    "id": "141",
+    "indCode": "190800",
+    "parentCode": "190000",
+    "indName": "其他交通工具",
+    "indLevel": "2"
+    },
+    {
+    "id": "142",
+    "indCode": "199900",
+    "parentCode": "190000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "143",
+    "indCode": "200000",
+    "parentCode": "0",
+    "indName": "电子电工",
+    "indLevel": "1"
+    },
+    {
+    "id": "144",
+    "indCode": "200100",
+    "parentCode": "200000",
+    "indName": "仪器仪表",
+    "indLevel": "2"
+    },
+    {
+    "id": "145",
+    "indCode": "200200",
+    "parentCode": "200000",
+    "indName": "电源设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "146",
+    "indCode": "200300",
+    "parentCode": "200000",
+    "indName": "电线电缆",
+    "indLevel": "2"
+    },
+    {
+    "id": "147",
+    "indCode": "200400",
+    "parentCode": "200000",
+    "indName": "电工器材",
+    "indLevel": "2"
+    },
+    {
+    "id": "148",
+    "indCode": "200500",
+    "parentCode": "200000",
+    "indName": "电子元件",
+    "indLevel": "2"
+    },
+    {
+    "id": "149",
+    "indCode": "200600",
+    "parentCode": "200000",
+    "indName": "电机设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "150",
+    "indCode": "200700",
+    "parentCode": "200000",
+    "indName": "照明设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "151",
+    "indCode": "209900",
+    "parentCode": "200000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "152",
+    "indCode": "210000",
+    "parentCode": "0",
+    "indName": "化工及材料",
+    "indLevel": "1"
+    },
+    {
+    "id": "153",
+    "indCode": "210100",
+    "parentCode": "210000",
+    "indName": "化工材料",
+    "indLevel": "2"
+    },
+    {
+    "id": "154",
+    "indCode": "210200",
+    "parentCode": "210000",
+    "indName": "塑料",
+    "indLevel": "2"
+    },
+    {
+    "id": "155",
+    "indCode": "210300",
+    "parentCode": "210000",
+    "indName": "涂料",
+    "indLevel": "2"
+    },
+    {
+    "id": "156",
+    "indCode": "210400",
+    "parentCode": "210000",
+    "indName": "橡胶",
+    "indLevel": "2"
+    },
+    {
+    "id": "157",
+    "indCode": "210500",
+    "parentCode": "210000",
+    "indName": "能源",
+    "indLevel": "2"
+    },
+    {
+    "id": "158",
+    "indCode": "210600",
+    "parentCode": "210000",
+    "indName": "冶金",
+    "indLevel": "2"
+    },
+    {
+    "id": "159",
+    "indCode": "219900",
+    "parentCode": "210000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "160",
+    "indCode": "220000",
+    "parentCode": "0",
+    "indName": "家用电器",
+    "indLevel": "1"
+    },
+    {
+    "id": "161",
+    "indCode": "220100",
+    "parentCode": "220000",
+    "indName": "手机数码",
+    "indLevel": "2"
+    },
+    {
+    "id": "162",
+    "indCode": "220200",
+    "parentCode": "220000",
+    "indName": "冷暖",
+    "indLevel": "2"
+    },
+    {
+    "id": "163",
+    "indCode": "220300",
+    "parentCode": "220000",
+    "indName": "音响",
+    "indLevel": "2"
+    },
+    {
+    "id": "164",
+    "indCode": "220400",
+    "parentCode": "220000",
+    "indName": "卫浴",
+    "indLevel": "2"
+    },
+    {
+    "id": "165",
+    "indCode": "220500",
+    "parentCode": "220000",
+    "indName": "厨用",
+    "indLevel": "2"
+    },
+    {
+    "id": "166",
+    "indCode": "220600",
+    "parentCode": "220000",
+    "indName": "影视",
+    "indLevel": "2"
+    },
+    {
+    "id": "167",
+    "indCode": "220700",
+    "parentCode": "220000",
+    "indName": "家用电器",
+    "indLevel": "2"
+    },
+    {
+    "id": "168",
+    "indCode": "220800",
+    "parentCode": "220000",
+    "indName": "数码影音",
+    "indLevel": "2"
+    },
+    {
+    "id": "169",
+    "indCode": "229900",
+    "parentCode": "220000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "170",
+    "indCode": "230000",
+    "parentCode": "0",
+    "indName": "农林牧渔",
+    "indLevel": "1"
+    },
+    {
+    "id": "171",
+    "indCode": "230100",
+    "parentCode": "230000",
+    "indName": "种植",
+    "indLevel": "2"
+    },
+    {
+    "id": "172",
+    "indCode": "230300",
+    "parentCode": "230000",
+    "indName": "养殖",
+    "indLevel": "2"
+    },
+    {
+    "id": "173",
+    "indCode": "230500",
+    "parentCode": "230000",
+    "indName": "园林景观",
+    "indLevel": "2"
+    },
+    {
+    "id": "174",
+    "indCode": "230700",
+    "parentCode": "230000",
+    "indName": "化肥",
+    "indLevel": "2"
+    },
+    {
+    "id": "175",
+    "indCode": "230900",
+    "parentCode": "230000",
+    "indName": "农药",
+    "indLevel": "2"
+    },
+    {
+    "id": "176",
+    "indCode": "231100",
+    "parentCode": "230000",
+    "indName": "兽医兽药",
+    "indLevel": "2"
+    },
+    {
+    "id": "177",
+    "indCode": "231300",
+    "parentCode": "230000",
+    "indName": "农林用品",
+    "indLevel": "2"
+    },
+    {
+    "id": "178",
+    "indCode": "239900",
+    "parentCode": "230000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "179",
+    "indCode": "240000",
+    "parentCode": "0",
+    "indName": "旅游",
+    "indLevel": "1"
+    },
+    {
+    "id": "180",
+    "indCode": "240100",
+    "parentCode": "240000",
+    "indName": "租车",
+    "indLevel": "2"
+    },
+    {
+    "id": "181",
+    "indCode": "240200",
+    "parentCode": "240000",
+    "indName": "航空公司",
+    "indLevel": "2"
+    },
+    {
+    "id": "182",
+    "indCode": "240300",
+    "parentCode": "240000",
+    "indName": "在线旅游",
+    "indLevel": "2"
+    },
+    {
+    "id": "183",
+    "indCode": "240400",
+    "parentCode": "240000",
+    "indName": "宾馆",
+    "indLevel": "2"
+    },
+    {
+    "id": "184",
+    "indCode": "240500",
+    "parentCode": "240000",
+    "indName": "交通票务",
+    "indLevel": "2"
+    },
+    {
+    "id": "185",
+    "indCode": "240600",
+    "parentCode": "240000",
+    "indName": "旅行社",
+    "indLevel": "2"
+    },
+    {
+    "id": "186",
+    "indCode": "240700",
+    "parentCode": "240000",
+    "indName": "旅游局",
+    "indLevel": "2"
+    },
+    {
+    "id": "187",
+    "indCode": "240800",
+    "parentCode": "240000",
+    "indName": "酒店",
+    "indLevel": "2"
+    },
+    {
+    "id": "188",
+    "indCode": "249900",
+    "parentCode": "240000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "189",
+    "indCode": "250000",
+    "parentCode": "0",
+    "indName": "服装鞋帽",
+    "indLevel": "1"
+    },
+    {
+    "id": "190",
+    "indCode": "250100",
+    "parentCode": "250000",
+    "indName": "服饰-运动",
+    "indLevel": "2"
+    },
+    {
+    "id": "191",
+    "indCode": "250200",
+    "parentCode": "250000",
+    "indName": "服饰-内衣",
+    "indLevel": "2"
+    },
+    {
+    "id": "192",
+    "indCode": "250300",
+    "parentCode": "250000",
+    "indName": "服饰-童装",
+    "indLevel": "2"
+    },
+    {
+    "id": "193",
+    "indCode": "250400",
+    "parentCode": "250000",
+    "indName": "服饰-职业休闲",
+    "indLevel": "2"
+    },
+    {
+    "id": "194",
+    "indCode": "250500",
+    "parentCode": "250000",
+    "indName": "服饰-其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "195",
+    "indCode": "250600",
+    "parentCode": "250000",
+    "indName": "纺织辅料",
+    "indLevel": "2"
+    },
+    {
+    "id": "196",
+    "indCode": "250700",
+    "parentCode": "250000",
+    "indName": "鞋帽",
+    "indLevel": "2"
+    },
+    {
+    "id": "197",
+    "indCode": "250800",
+    "parentCode": "250000",
+    "indName": "皮革",
+    "indLevel": "2"
+    },
+    {
+    "id": "198",
+    "indCode": "260000",
+    "parentCode": "0",
+    "indName": "休闲娱乐",
+    "indLevel": "1"
+    },
+    {
+    "id": "199",
+    "indCode": "260100",
+    "parentCode": "260000",
+    "indName": "体育器械",
+    "indLevel": "2"
+    },
+    {
+    "id": "200",
+    "indCode": "260200",
+    "parentCode": "260000",
+    "indName": "玩具模型",
+    "indLevel": "2"
+    },
+    {
+    "id": "201",
+    "indCode": "260300",
+    "parentCode": "260000",
+    "indName": "乐器",
+    "indLevel": "2"
+    },
+    {
+    "id": "202",
+    "indCode": "260400",
+    "parentCode": "260000",
+    "indName": "星座占卜",
+    "indLevel": "2"
+    },
+    {
+    "id": "203",
+    "indCode": "260500",
+    "parentCode": "260000",
+    "indName": "宠物",
+    "indLevel": "2"
+    },
+    {
+    "id": "204",
+    "indCode": "260600",
+    "parentCode": "260000",
+    "indName": "户外及休闲",
+    "indLevel": "2"
+    },
+    {
+    "id": "205",
+    "indCode": "269900",
+    "parentCode": "260000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "206",
+    "indCode": "270000",
+    "parentCode": "0",
+    "indName": "安全安保",
+    "indLevel": "1"
+    },
+    {
+    "id": "207",
+    "indCode": "270100",
+    "parentCode": "270000",
+    "indName": "交通消防",
+    "indLevel": "2"
+    },
+    {
+    "id": "208",
+    "indCode": "270200",
+    "parentCode": "270000",
+    "indName": "防盗报警",
+    "indLevel": "2"
+    },
+    {
+    "id": "209",
+    "indCode": "270300",
+    "parentCode": "270000",
+    "indName": "保安安保",
+    "indLevel": "2"
+    },
+    {
+    "id": "210",
+    "indCode": "270400",
+    "parentCode": "270000",
+    "indName": "门禁考勤",
+    "indLevel": "2"
+    },
+    {
+    "id": "211",
+    "indCode": "270500",
+    "parentCode": "270000",
+    "indName": "警用装备",
+    "indLevel": "2"
+    },
+    {
+    "id": "212",
+    "indCode": "279900",
+    "parentCode": "270000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "213",
+    "indCode": "280000",
+    "parentCode": "0",
+    "indName": "食品餐饮",
+    "indLevel": "1"
+    },
+    {
+    "id": "214",
+    "indCode": "280100",
+    "parentCode": "280000",
+    "indName": "食品",
+    "indLevel": "2"
+    },
+    {
+    "id": "215",
+    "indCode": "280200",
+    "parentCode": "280000",
+    "indName": "饮料",
+    "indLevel": "2"
+    },
+    {
+    "id": "216",
+    "indCode": "280300",
+    "parentCode": "280000",
+    "indName": "食用油调料",
+    "indLevel": "2"
+    },
+    {
+    "id": "217",
+    "indCode": "280400",
+    "parentCode": "280000",
+    "indName": "餐馆",
+    "indLevel": "2"
+    },
+    {
+    "id": "218",
+    "indCode": "280500",
+    "parentCode": "280000",
+    "indName": "饮食原料",
+    "indLevel": "2"
+    },
+    {
+    "id": "219",
+    "indCode": "280600",
+    "parentCode": "280000",
+    "indName": "烟草",
+    "indLevel": "2"
+    },
+    {
+    "id": "220",
+    "indCode": "280700",
+    "parentCode": "280000",
+    "indName": "酒类",
+    "indLevel": "2"
+    },
+    {
+    "id": "221",
+    "indCode": "280800",
+    "parentCode": "280000",
+    "indName": "零售",
+    "indLevel": "2"
+    },
+    {
+    "id": "222",
+    "indCode": "280900",
+    "parentCode": "280000",
+    "indName": "商业",
+    "indLevel": "2"
+    },
+    {
+    "id": "223",
+    "indCode": "289900",
+    "parentCode": "280000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "224",
+    "indCode": "290000",
+    "parentCode": "0",
+    "indName": "节能环保",
+    "indLevel": "1"
+    },
+    {
+    "id": "225",
+    "indCode": "290100",
+    "parentCode": "290000",
+    "indName": "污染处理",
+    "indLevel": "2"
+    },
+    {
+    "id": "226",
+    "indCode": "290200",
+    "parentCode": "290000",
+    "indName": "废旧回收",
+    "indLevel": "2"
+    },
+    {
+    "id": "227",
+    "indCode": "290300",
+    "parentCode": "290000",
+    "indName": "节能",
+    "indLevel": "2"
+    },
+    {
+    "id": "228",
+    "indCode": "290400",
+    "parentCode": "290000",
+    "indName": "环境检测及处理",
+    "indLevel": "2"
+    },
+    {
+    "id": "229",
+    "indCode": "299900",
+    "parentCode": "290000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "230",
+    "indCode": "300000",
+    "parentCode": "0",
+    "indName": "金融服务",
+    "indLevel": "1"
+    },
+    {
+    "id": "231",
+    "indCode": "300100",
+    "parentCode": "300000",
+    "indName": "保险",
+    "indLevel": "2"
+    },
+    {
+    "id": "232",
+    "indCode": "300200",
+    "parentCode": "300000",
+    "indName": "股票基金",
+    "indLevel": "2"
+    },
+    {
+    "id": "233",
+    "indCode": "300300",
+    "parentCode": "300000",
+    "indName": "银行产品",
+    "indLevel": "2"
+    },
+    {
+    "id": "234",
+    "indCode": "300400",
+    "parentCode": "300000",
+    "indName": "期货外汇",
+    "indLevel": "2"
+    },
+    {
+    "id": "235",
+    "indCode": "300500",
+    "parentCode": "300000",
+    "indName": "发票",
+    "indLevel": "2"
+    },
+    {
+    "id": "236",
+    "indCode": "300600",
+    "parentCode": "300000",
+    "indName": "理财",
+    "indLevel": "2"
+    },
+    {
+    "id": "237",
+    "indCode": "300700",
+    "parentCode": "300000",
+    "indName": "第三方支付平台",
+    "indLevel": "2"
+    },
+    {
+    "id": "238",
+    "indCode": "300800",
+    "parentCode": "300000",
+    "indName": "借记卡办理",
+    "indLevel": "2"
+    },
+    {
+    "id": "239",
+    "indCode": "300900",
+    "parentCode": "300000",
+    "indName": "公积金办理",
+    "indLevel": "2"
+    },
+    {
+    "id": "240",
+    "indCode": "301000",
+    "parentCode": "300000",
+    "indName": "典当",
+    "indLevel": "2"
+    },
+    {
+    "id": "241",
+    "indCode": "301100",
+    "parentCode": "300000",
+    "indName": "贷款",
+    "indLevel": "2"
+    },
+    {
+    "id": "242",
+    "indCode": "301200",
+    "parentCode": "300000",
+    "indName": "网贷平台",
+    "indLevel": "2"
+    },
+    {
+    "id": "243",
+    "indCode": "301300",
+    "parentCode": "300000",
+    "indName": "综合",
+    "indLevel": "2"
+    },
+    {
+    "id": "244",
+    "indCode": "309900",
+    "parentCode": "300000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "245",
+    "indCode": "310000",
+    "parentCode": "0",
+    "indName": "IT产品",
+    "indLevel": "1"
+    },
+    {
+    "id": "246",
+    "indCode": "310100",
+    "parentCode": "310000",
+    "indName": "电脑厂商",
+    "indLevel": "2"
+    },
+    {
+    "id": "247",
+    "indCode": "310200",
+    "parentCode": "310000",
+    "indName": "外设",
+    "indLevel": "2"
+    },
+    {
+    "id": "248",
+    "indCode": "310300",
+    "parentCode": "310000",
+    "indName": "耗材",
+    "indLevel": "2"
+    },
+    {
+    "id": "249",
+    "indCode": "310400",
+    "parentCode": "310000",
+    "indName": "配件",
+    "indLevel": "2"
+    },
+    {
+    "id": "250",
+    "indCode": "310500",
+    "parentCode": "310000",
+    "indName": "网络设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "251",
+    "indCode": "310600",
+    "parentCode": "310000",
+    "indName": "软件",
+    "indLevel": "2"
+    },
+    {
+    "id": "252",
+    "indCode": "310700",
+    "parentCode": "310000",
+    "indName": "硬件",
+    "indLevel": "2"
+    },
+    {
+    "id": "253",
+    "indCode": "319900",
+    "parentCode": "310000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "254",
+    "indCode": "320000",
+    "parentCode": "0",
+    "indName": "成人用品",
+    "indLevel": "1"
+    },
+    {
+    "id": "255",
+    "indCode": "320100",
+    "parentCode": "320000",
+    "indName": "成人用品",
+    "indLevel": "2"
+    },
+    {
+    "id": "256",
+    "indCode": "330000",
+    "parentCode": "0",
+    "indName": "化妆品",
+    "indLevel": "1"
+    },
+    {
+    "id": "257",
+    "indCode": "330100",
+    "parentCode": "330000",
+    "indName": "化妆品",
+    "indLevel": "2"
+    },
+    {
+    "id": "258",
+    "indCode": "330200",
+    "parentCode": "330000",
+    "indName": "珠宝首饰",
+    "indLevel": "2"
+    },
+    {
+    "id": "259",
+    "indCode": "330300",
+    "parentCode": "330000",
+    "indName": "护肤品",
+    "indLevel": "2"
+    },
+    {
+    "id": "260",
+    "indCode": "339900",
+    "parentCode": "330000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "261",
+    "indCode": "340000",
+    "parentCode": "0",
+    "indName": "房地产",
+    "indLevel": "1"
+    },
+    {
+    "id": "262",
+    "indCode": "340100",
+    "parentCode": "340000",
+    "indName": "房产买卖",
+    "indLevel": "2"
+    },
+    {
+    "id": "263",
+    "indCode": "340200",
+    "parentCode": "340000",
+    "indName": "房屋出租",
+    "indLevel": "2"
+    },
+    {
+    "id": "264",
+    "indCode": "340300",
+    "parentCode": "340000",
+    "indName": "开发商",
+    "indLevel": "2"
+    },
+    {
+    "id": "265",
+    "indCode": "340400",
+    "parentCode": "340000",
+    "indName": "中介",
+    "indLevel": "2"
+    },
+    {
+    "id": "266",
+    "indCode": "349900",
+    "parentCode": "340000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "267",
+    "indCode": "350000",
+    "parentCode": "0",
+    "indName": "通信服务",
+    "indLevel": "1"
+    },
+    {
+    "id": "268",
+    "indCode": "350100",
+    "parentCode": "350000",
+    "indName": "通信设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "269",
+    "indCode": "350200",
+    "parentCode": "350000",
+    "indName": "通信终端",
+    "indLevel": "2"
+    },
+    {
+    "id": "270",
+    "indCode": "350300",
+    "parentCode": "350000",
+    "indName": "设备厂商",
+    "indLevel": "2"
+    },
+    {
+    "id": "271",
+    "indCode": "350400",
+    "parentCode": "350000",
+    "indName": "运营商",
+    "indLevel": "2"
+    },
+    {
+    "id": "272",
+    "indCode": "350500",
+    "parentCode": "350000",
+    "indName": "广播电视服务",
+    "indLevel": "2"
+    },
+    {
+    "id": "273",
+    "indCode": "350600",
+    "parentCode": "350000",
+    "indName": "400业务",
+    "indLevel": "2"
+    },
+    {
+    "id": "274",
+    "indCode": "350700",
+    "parentCode": "350000",
+    "indName": "网络电话",
+    "indLevel": "2"
+    },
+    {
+    "id": "275",
+    "indCode": "359900",
+    "parentCode": "350000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "276",
+    "indCode": "360000",
+    "parentCode": "0",
+    "indName": "办公文教",
+    "indLevel": "1"
+    },
+    {
+    "id": "277",
+    "indCode": "360100",
+    "parentCode": "360000",
+    "indName": "办公设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "278",
+    "indCode": "360200",
+    "parentCode": "360000",
+    "indName": "教学设备",
+    "indLevel": "2"
+    },
+    {
+    "id": "279",
+    "indCode": "360300",
+    "parentCode": "360000",
+    "indName": "文具",
+    "indLevel": "2"
+    },
+    {
+    "id": "280",
+    "indCode": "369900",
+    "parentCode": "360000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "281",
+    "indCode": "370000",
+    "parentCode": "0",
+    "indName": "图书音像",
+    "indLevel": "1"
+    },
+    {
+    "id": "282",
+    "indCode": "370100",
+    "parentCode": "370000",
+    "indName": "图书",
+    "indLevel": "2"
+    },
+    {
+    "id": "283",
+    "indCode": "370200",
+    "parentCode": "370000",
+    "indName": "投稿发行",
+    "indLevel": "2"
+    },
+    {
+    "id": "284",
+    "indCode": "370300",
+    "parentCode": "370000",
+    "indName": "音像",
+    "indLevel": "2"
+    },
+    {
+    "id": "285",
+    "indCode": "370400",
+    "parentCode": "370000",
+    "indName": "报纸杂志",
+    "indLevel": "2"
+    },
+    {
+    "id": "286",
+    "indCode": "370500",
+    "parentCode": "370000",
+    "indName": "印刷",
+    "indLevel": "2"
+    },
+    {
+    "id": "287",
+    "indCode": "370600",
+    "parentCode": "370000",
+    "indName": "包装",
+    "indLevel": "2"
+    },
+    {
+    "id": "288",
+    "indCode": "379900",
+    "parentCode": "370000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "289",
+    "indCode": "380000",
+    "parentCode": "0",
+    "indName": "铃声短信",
+    "indLevel": "1"
+    },
+    {
+    "id": "290",
+    "indCode": "380100",
+    "parentCode": "380000",
+    "indName": "短信彩信",
+    "indLevel": "2"
+    },
+    {
+    "id": "291",
+    "indCode": "380200",
+    "parentCode": "380000",
+    "indName": "铃声图片",
+    "indLevel": "2"
+    },
+    {
+    "id": "292",
+    "indCode": "389900",
+    "parentCode": "380000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "293",
+    "indCode": "390000",
+    "parentCode": "0",
+    "indName": "彩票",
+    "indLevel": "1"
+    },
+    {
+    "id": "294",
+    "indCode": "390100",
+    "parentCode": "390000",
+    "indName": "福彩",
+    "indLevel": "2"
+    },
+    {
+    "id": "295",
+    "indCode": "390200",
+    "parentCode": "390000",
+    "indName": "体彩",
+    "indLevel": "2"
+    },
+    {
+    "id": "296",
+    "indCode": "399900",
+    "parentCode": "390000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "297",
+    "indCode": "400000",
+    "parentCode": "0",
+    "indName": "电子商务",
+    "indLevel": "1"
+    },
+    {
+    "id": "298",
+    "indCode": "400100",
+    "parentCode": "400000",
+    "indName": "票务代理平台",
+    "indLevel": "2"
+    },
+    {
+    "id": "299",
+    "indCode": "400200",
+    "parentCode": "400000",
+    "indName": "垂直B2C",
+    "indLevel": "2"
+    },
+    {
+    "id": "300",
+    "indCode": "400300",
+    "parentCode": "400000",
+    "indName": "综合B2C",
+    "indLevel": "2"
+    },
+    {
+    "id": "301",
+    "indCode": "400400",
+    "parentCode": "400000",
+    "indName": "B2B",
+    "indLevel": "2"
+    },
+    {
+    "id": "302",
+    "indCode": "400500",
+    "parentCode": "400000",
+    "indName": "团购",
+    "indLevel": "2"
+    },
+    {
+    "id": "303",
+    "indCode": "400600",
+    "parentCode": "400000",
+    "indName": "淘宝 天猫类",
+    "indLevel": "2"
+    },
+    {
+    "id": "304",
+    "indCode": "409900",
+    "parentCode": "400000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "305",
+    "indCode": "410000",
+    "parentCode": "0",
+    "indName": "社交",
+    "indLevel": "1"
+    },
+    {
+    "id": "306",
+    "indCode": "410100",
+    "parentCode": "410000",
+    "indName": "婚恋",
+    "indLevel": "2"
+    },
+    {
+    "id": "307",
+    "indCode": "410200",
+    "parentCode": "410000",
+    "indName": "微博",
+    "indLevel": "2"
+    },
+    {
+    "id": "308",
+    "indCode": "410300",
+    "parentCode": "410000",
+    "indName": "休闲",
+    "indLevel": "2"
+    },
+    {
+    "id": "309",
+    "indCode": "410400",
+    "parentCode": "410000",
+    "indName": "论坛",
+    "indLevel": "2"
+    },
+    {
+    "id": "310",
+    "indCode": "419900",
+    "parentCode": "410000",
+    "indName": "其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "311",
+    "indCode": "420000",
+    "parentCode": "0",
+    "indName": "招聘",
+    "indLevel": "1"
+    },
+    {
+    "id": "312",
+    "indCode": "420100",
+    "parentCode": "420000",
+    "indName": "招聘",
+    "indLevel": "2"
+    },
+    {
+    "id": "313",
+    "indCode": "430000",
+    "parentCode": "0",
+    "indName": "资讯",
+    "indLevel": "1"
+    },
+    {
+    "id": "314",
+    "indCode": "430100",
+    "parentCode": "430000",
+    "indName": "咨询-汽车",
+    "indLevel": "2"
+    },
+    {
+    "id": "315",
+    "indCode": "430200",
+    "parentCode": "430000",
+    "indName": "咨询-其他",
+    "indLevel": "2"
+    },
+    {
+    "id": "316",
+    "indCode": "430300",
+    "parentCode": "430000",
+    "indName": "咨询-房产",
+    "indLevel": "2"
+    },
+    {
+    "id": "317",
+    "indCode": "430400",
+    "parentCode": "430000",
+    "indName": "咨询-视频网站",
+    "indLevel": "2"
+    },
+    {
+    "id": "318",
+    "indCode": "430500",
+    "parentCode": "430000",
+    "indName": "咨询-军事",
+    "indLevel": "2"
+    },
+    {
+    "id": "319",
+    "indCode": "430600",
+    "parentCode": "430000",
+    "indName": "咨询-门户",
+    "indLevel": "2"
+    },
+    {
+    "id": "320",
+    "indCode": "440000",
+    "parentCode": "0",
+    "indName": "分类信息",
+    "indLevel": "1"
+    },
+    {
+    "id": "321",
+    "indCode": "440100",
+    "parentCode": "440000",
+    "indName": "分类信息",
+    "indLevel": "2"
+    },
+    {
+    "id": "322",
+    "indCode": "450000",
+    "parentCode": "0",
+    "indName": "其他",
+    "indLevel": "1"
+    },
+    {
+    "id": "323",
+    "indCode": "450100",
+    "parentCode": "450000",
+    "indName": "宗教用品销售类",
+    "indLevel": "2"
+    },
+    {
+    "id": "324",
+    "indCode": "450200",
+    "parentCode": "450000",
+    "indName": "其他宗教类",
+    "indLevel": "2"
+    },
+    {
+    "id": "325",
+    "indCode": "459900",
+    "parentCode": "450000",
+    "indName": "其他",
+    "indLevel": "2"
+    }
+    ]
